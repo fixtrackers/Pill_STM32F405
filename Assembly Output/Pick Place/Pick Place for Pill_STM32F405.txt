@@ -1,0 +1,47 @@
+Altium Designer Pick and Place Locations
+F:\Dima\Work_my\Pill_STM32F405\Pill_STM32F405\Assembly Output\Pick Place\Pick Place for Pill_STM32F405.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       02.02.21
+Time:       02:09
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment                            Layer       Footprint               Center-X(mil) Center-Y(mil) Rotation Description                                                                                                             
+D2         PESD5V0L4UW                        TopLayer    PESD5V0L4UW             543.677       362.000       180      "TVS DIODE 5V 13V 5TSSOP"                                                                                               
+L1         BLM18EG101TN1D                     TopLayer    BLM18                   2273.000      572.000       270      "100 Ohms @ 100MHz 1  Ferrite Bead 0603 (1608 Metric) 2A 45mOhm"                                                        
+Y2         AB26TRB-32.768KHZ-T                TopLayer    AB26TRB32768KHZT        2307.709      192.000       180      "32.768kHz ±20ppm Crystal 12.5pF 50 kOhms Cylindrical Can, Radial"                                                      
+C17        10pF                               TopLayer    0603-CAP                2027.000      143.000       360      "Capacitor 0603 10pF 100V"                                                                                              
+C16        10pF                               TopLayer    0603-CAP                2026.000      239.000       360      "Capacitor 0603 10pF 100V"                                                                                              
+J1         "Micro USB 2.0 Type AB Receptacle" TopLayer    USB-MICROB-SMD          127.085       350.000       270      "USB - micro B USB 2.0 Receptacle Connector 5 Position Surface Mount, Right Angle; Through Hole"                        
+U1         STM32F405RGT6                      TopLayer    LQFP64                  1750.000      500.000       45       "ARM Cortex-M4 32-bit MCU+FPU, 1024 KB Flash, 192 KB Internal RAM, 51 I/Os, 64-Pin LQFP, -40 to 85 degC, Tape and Reel" 
+P5         "Header 2"                         TopLayer    HDR1X2                  110.000       725.000       90       "Header, 2-Pin 2.54mm"                                                                                                  
+P4         "Header 29"                        BottomLayer HDR1X29                 1500.000      50.000        180      "CONN HEADER VERT 29POS 2.54MM"                                                                                         
+P3         "Header 29"                        BottomLayer HDR1X29                 1500.000      950.000       180      "CONN HEADER VERT 29POS 2.54MM"                                                                                         
+R1         22R                                TopLayer    0603-RES                376.000       337.000       180      "Resistors 0603 5%"                                                                                                     
+R2         22R                                TopLayer    0603-RES                376.000       387.000       180      "Resistors 0603 5%"                                                                                                     
+C1         10µF                               TopLayer    Body_A_M__CAPMP3216X18N 995.000       710.000       90       "10µF Molded Tantalum Capacitors 6.3V 1206 (3216 Metric) 4Ohm @ 100kHz"                                                 
+C2         100nF                              TopLayer    0603-CAP                2105.000      675.000       225      "Capacitor 0603 100nF 50V"                                                                                              
+C4         100nF                              TopLayer    0603-CAP                1375.000      465.000       90       "Capacitor 0603 100nF 50V"                                                                                              
+C5         100nF                              TopLayer    0603-CAP                1747.000      156.000       360      "Capacitor 0603 100nF 50V"                                                                                              
+C6         100nF                              TopLayer    0603-CAP                2180.000      572.000       270      "Capacitor 0603 100nF 50V"                                                                                              
+C7         2.2µF                              TopLayer    0603-CAP                1856.000      838.000       315      "Capacitor 0603 2.2µF 6.3V"                                                                                             
+C8         2.2µF                              TopLayer    0603-CAP                1310.000      465.000       90       "Capacitor 0603 2.2µF 6.3V"                                                                                             
+C9         10µF                               TopLayer    Body_A_M__CAPMP3216X18N 250.000       720.000       270      "10µF Molded Tantalum Capacitors 6.3V 1206 (3216 Metric) 4Ohm @ 100kHz"                                                 
+Y1         "HC-49US 8.000MHZ"                 TopLayer    JPY-HC-49US             2395.457      387.000       360      "Crystal, 8 MHz,   -55°C ~ 125°C"                                                                                       
+C12        18pF                               TopLayer    0603-CAP                2571.000      214.000       90       "Capacitor 0603 18pF 100V"                                                                                              
+C13        18pF                               TopLayer    0603-CAP                2138.000      367.000       270      "Capacitor 0603 18pF 100V"                                                                                              
+R3         470R                               TopLayer    0603-RES                2791.000      364.000       360      "Resistors 0603 5%"                                                                                                     
+R4         10K                                TopLayer    0603-RES                2680.000      835.000       180      "Resistors 0603 5%"                                                                                                     
+R5         10K                                TopLayer    0603-RES                2780.000      523.000       180      "Resistors 0603 5%"                                                                                                     
+C3         100nF                              TopLayer    0603-CAP                1723.000      863.000       360      "Capacitor 0603 100nF 50V"                                                                                              
+P1         "Header 2X2"                       TopLayer    HDR2X2                  2697.000      680.000       360      "CONN HEADER VERT 4POS 2.54MM"                                                                                          
+C14        100mF                              TopLayer    Body_C_L__CAPMP6032X28M 833.000       676.000       90       "100µF Molded Tantalum Capacitors 6.3V 2312 (6032 Metric) 900mOhm"                                                      
+P2         "Header 3"                         TopLayer    HDR1X3                  1012.000      289.000       360      "Header, 3-Pin 2.54mm"                                                                                                  
+D1         LTST-C170KRKT                      TopLayer    LED_0805_RED_SMD        2783.661      438.000       360      "LED RED  0805 SMD"                                                                                                     
+U2         LD1117S33CTR                       TopLayer    MP04A_N                 534.000       666.000       270      "IC REG LINEAR 3.3V 800MA SOT223"                                                                                       
+C11        100nF                              TopLayer    0603-CAP                343.000       745.000       90       "Capacitor 0603 100nF 50V"                                                                                              
+C15        100nF                              TopLayer    0603-CAP                1085.000      740.000       270      "Capacitor 0603 100nF 50V"                                                                                              

@@ -1,0 +1,11 @@
+DRC Rules Export File for PCB: F:\Dima\Work_my\Pill_STM32F405\Pill_STM32F405\PCB\Pill_STM32F405.PcbDoc
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=7.00
+RuleKind=Width|RuleName=Width_DP1|Scope=Board|Minimum=7.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=Clearance_DP1|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=Clearance_Poly|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=Clearance_Poly_Poly|Scope=Board|Minimum=25.00
+RuleKind=Clearance|RuleName=Clearance_DifferentialPair|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=Clearance_SFP|Scope=Board|Minimum=0.00
