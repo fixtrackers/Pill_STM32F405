@@ -1,2 +1,2 @@
-Altium Designer - 19.1.9
+Altium Designer - 19.1.9.
 
